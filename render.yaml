@@ -1,5 +1,5 @@
 projects:
-  - name: sf-pulse-python
+  - name: sf-pulse-raph-terrier
     environments:
       - name: production
         databases:
